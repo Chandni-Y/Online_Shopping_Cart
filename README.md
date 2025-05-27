@@ -13,10 +13,10 @@ An intuitive and responsive online shopping cart application that allows users t
 
 # ✅ Features
 
-* Product Listing: Browse a variety of products with images, descriptions, and prices.
-* Shopping Cart: Add or remove products, adjust quantities, and view total costs in real-time.
-* Responsive Design: Optimized for desktops, tablets, and mobile devices.
-* User-Friendly Interface: Clean and intuitive UI for an enhanced user experience.
+* *Product Listing*: Browse a variety of products with images, descriptions, and prices.
+* *Shopping Cart*: Add or remove products, adjust quantities, and view total costs in real-time.
+* *Responsive Design*: Optimized for desktops, tablets, and mobile devices.
+* *User-Friendly Interface*: Clean and intuitive UI for an enhanced user experience.
 
 # 🛠 Technologies Used
 
