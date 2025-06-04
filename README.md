@@ -28,5 +28,5 @@ An intuitive and responsive online shopping cart application that allows users t
 
 Note: The project primarily consists of frontend components. Backend integration (e.g., databases, server-side processing) can be added to extend functionality.
 
-# Screenshot
+## 📸 Screenshot
 ![Image](https://github.com/user-attachments/assets/79b442bb-d435-405c-a554-a9b1d6cd9295)
